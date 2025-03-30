@@ -10,7 +10,19 @@ class Moto {
   }
 
   static CrearElemento() {
-    return
+    const productCard = document.createElement("div");
+    const productImage = document.createElement("div");
+    const img = document.createElement("img");
+    const span = document.createElement("span");
+    const productInfo = document.createElement("div");
+    const nameProduct = document.createElement("h3");
+    const SpanStars = document.createElement("span");
+    const spanRating = document.createElement("span");
+    const productDescription = document.createElement("p");
+    const productPrice = document.createElement("div");
+    const priceOld = document.createElement("span")
+    const priceCurrent = document.createElement("span")
+    const buttonAdd = document.createElement("button")
   }
 }
 
