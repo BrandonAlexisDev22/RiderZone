@@ -1,13 +1,18 @@
 class Moto {
   static id = 0;
 
-  constructor(modelo, marca, imagen, precio) {
+constructor(modelo, marca, imagen, descuento, nombre, rating, descripcion, precioViejo, precioNuevo) {
     this.id = Moto.id++;
     this.modelo = modelo;
     this.marca = marca;
     this.imagen = imagen;
-    this.precio = precio;
-  }
+    this.descuento = descuento;
+    this.nombre = nombre;
+    this.rating = rating;
+    this.descripcion = descripcion;
+    this.precioViejo = precioViejo;
+    this.precioNuevo = precioNuevo;
+}
 
   static CrearElemento() {
     const productCard = document.createElement("div");
