@@ -1,6 +1,5 @@
 class Moto {
     static id = 1;
-    
     constructor(modelo, marca, imagen, descuento, nombre, rating, descripcion, precioViejo, precioNuevo) {
       this.id = Moto.id++;
       this.modelo = modelo;
@@ -131,4 +130,42 @@ const productContainer = document.createElement("div");
 productContainer.classList.add("product-container");
 root.appendChild(container);
 container.appendChild(productContainer);
+
+
+//OBTENER STOCK DE MOTOS
+async function ObtenerMotos(){
+    const json = '../json/Stock.json'
+    try {
+        const response = await fetch(json)
+        if(!response.ok) {
+            throw new Error("Error en la peticion del stock")
+        } else {
+            const motoData = await response.json()
+            return motoData.MOTOS
+        }
+    }
+    catch(error){
+        console.log(error)
+    }
+}
+
+ObtenerMotos()
+    .then(motos => {
+        motos.forEach(moto => {
+            const nuevaMoto = new Moto(
+                moto.modelo,
+                moto.marca,
+                moto.imagen,
+                moto.descuento,
+                moto.nombre,
+                moto.rating,
+                moto.descripcion,
+                moto.precio_viejo,
+                moto.precio_nuevo
+            );
+            const motoHTML = nuevaMoto.crearElemento();
+            productContainer.appendChild(motoHTML);
+        })
+    })
+    .catch(err => console.log(err))
 
