@@ -36,7 +36,7 @@
         {
             "modelo": "GSX-R1000R",
             "marca": "Suzuki",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_911111-MLU74698794706_022024-O.webp",
+            "imagen": "https://dhqlmcogwd1an.cloudfront.net/images/phocagallery/Suzuki/gsx-r1000-r-2019/02-suzuki-gsx-r1000-r-2019-estaticas-detalles.jpg",
             "descuento": 8,
             "nombre": "GSX-R1000R 2023",
             "rating": 4.4,
@@ -47,7 +47,7 @@
         {
             "modelo": "Panigale V4",
             "marca": "Ducati",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_101111-MLU74698794706_022024-O.webp",
+            "imagen": "https://www.motofichas.com/images/cache/10-ducati-panigale-v4-2025-estudio-rojo-01-398-a-mobile.jpg",
             "descuento": 5,
             "nombre": "Panigale V4 2023",
             "rating": 4.8,
@@ -58,7 +58,7 @@
         {
             "modelo": "S1000RR",
             "marca": "BMW",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_121111-MLU74698794706_022024-O.webp",
+            "imagen": "https://i.pinimg.com/736x/82/cf/94/82cf94afd29c097037fe68febe7b9fd4.jpg",
             "descuento": 7,
             "nombre": "S1000RR 2023",
             "rating": 4.7,
@@ -69,7 +69,7 @@
         {
             "modelo": "RSV4",
             "marca": "Aprilia",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_131111-MLU74698794706_022024-O.webp",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcqj6xygIUX4WMAumdYKykE0uRMVHZTj7XGw&s",
             "descuento": 6,
             "nombre": "RSV4 Factory 2023",
             "rating": 4.6,
@@ -80,7 +80,7 @@
         {
             "modelo": "ZX-6R",
             "marca": "Kawasaki",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_141111-MLU74698794706_022024-O.webp",
+            "imagen": "https://www.motofichas.com/images/phocagallery/Kawasaki/ninja-zx-6r-2025/10-kawasaki-ninja-zx-6r-2025-estudio-verde-01.jpg",
             "descuento": 10,
             "nombre": "Ninja ZX-6R 2023",
             "rating": 4.5,
@@ -91,7 +91,7 @@
         {
             "modelo": "R6",
             "marca": "Yamaha",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_151111-MLU74698794706_022024-O.webp",
+            "imagen": "https://global.yamaha-motor.com/showroom/event/tokyo-motorshow-2017/assets/img/exhibitionmodels/yzf-r6/mainvisual.jpg",
             "descuento": 9,
             "nombre": "YZF-R6 2023",
             "rating": 4.6,
@@ -102,7 +102,7 @@
         {
             "modelo": "Street Triple RS",
             "marca": "Triumph",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_161111-MLU74698794706_022024-O.webp",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5H8_Cy53QjPeW7ttgE-CY7j9pAcHXYAXuQ&s",
             "descuento": 8,
             "nombre": "Street Triple RS 2023",
             "rating": 4.5,
@@ -113,7 +113,7 @@
         {
             "modelo": "SuperSport 950",
             "marca": "Ducati",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_171111-MLU74698794706_022024-O.webp",
+            "imagen": "https://images.ctfassets.net/x7j9qwvpvr5s/7uzgkAg3n5VtKjEkb6iB6r/f07dcb8b7f4d2cab2816522cdad5cc04/SS-950-S-MY22-Model-Preview-1050x650-v06.png",
             "descuento": 6,
             "nombre": "SuperSport 950 2023",
             "rating": 4.4,
@@ -124,7 +124,7 @@
         {
             "modelo": "MT-10",
             "marca": "Yamaha",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_181111-MLU74698794706_022024-O.webp",
+            "imagen": "https://cdn-0.totalmotorcycle.com/wp-content/uploads/2022/11/2023-Yamaha-MT-10c.jpg",
             "descuento": 7,
             "nombre": "MT-10 2023",
             "rating": 4.5,
@@ -135,7 +135,7 @@
         {
             "modelo": "CB650R",
             "marca": "Honda",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_191111-MLU74698794706_022024-O.webp",
+            "imagen": "https://as.sobrenet.pt/s/image/tsr/brandm/content/1920x1280/rkwsxjxjdmp4vgalkzyowrgfya2.jpg",
             "descuento": 5,
             "nombre": "CB650R 2023",
             "rating": 4.3,
@@ -146,7 +146,7 @@
         {
             "modelo": "Z900",
             "marca": "Kawasaki",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_201111-MLU74698794706_022024-O.webp",
+            "imagen": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z900_SL1_STU__1_.jpg",
             "descuento": 6,
             "nombre": "Z900 2023",
             "rating": 4.4,
@@ -157,7 +157,7 @@
         {
             "modelo": "Tuono V4",
             "marca": "Aprilia",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_211111-MLU74698794706_022024-O.webp",
+            "imagen": "https://www.totalmotorcycle.com/wp-content/uploads/2023/04/2023-Aprilia-Tuono-V4-Factory-1100c.jpg",
             "descuento": 7,
             "nombre": "Tuono V4 2023",
             "rating": 4.6,
@@ -168,7 +168,7 @@
         {
             "modelo": "Monster",
             "marca": "Ducati",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_221111-MLU74698794706_022024-O.webp",
+            "imagen": "https://www.webbikeworld.com/wp-content/uploads/2023/06/2023-Ducati-Monster-4.jpg",
             "descuento": 5,
             "nombre": "Monster 2023",
             "rating": 4.5,
@@ -179,7 +179,7 @@
         {
             "modelo": "Speed Triple 1200 RS",
             "marca": "Triumph",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_231111-MLU74698794706_022024-O.webp",
+            "imagen": "https://mileagewala.com/wp-content/uploads/2023/01/2023-Triumph-Street-Triple-RS-Carbon-Black-front-right.jpg",
             "descuento": 8,
             "nombre": "Speed Triple 1200 RS 2023",
             "rating": 4.7,
@@ -190,7 +190,7 @@
         {
             "modelo": "KTM RC 390",
             "marca": "KTM",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_241111-MLU74698794706_022024-O.webp",
+            "imagen": "https://www.webbikeworld.com/wp-content/uploads/2023/06/2023-KTM-RC-390-2-918x588.png",
             "descuento": 10,
             "nombre": "KTM RC 390 2023",
             "rating": 4.4,
@@ -201,7 +201,7 @@
         {
             "modelo": "Duke 890 R",
             "marca": "KTM",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_251111-MLU74698794706_022024-O.webp",
+            "imagen": "https://images5.1000ps.net/images_bikekat/2023/1-KTM/9833-890_Duke_R/002-638047874536720309-ktm-890-duke-r.jpg",
             "descuento": 9,
             "nombre": "Duke 890 R 2023",
             "rating": 4.6,
@@ -212,7 +212,7 @@
         {
             "modelo": "Hayabusa",
             "marca": "Suzuki",
-            "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_261111-MLU74698794706_022024-O.webp",
+            "imagen": "https://servicemanualsgsxr.com/wp-content/uploads/2022/09/2023-suzuki-hayabusa-specifications-3.jpg",
             "descuento": 6,
             "nombre": "Hayabusa 2023",
             "rating": 4.8,
