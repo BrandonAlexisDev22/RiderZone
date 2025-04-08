@@ -1,12 +1,5 @@
-// const mensajeBienvenida = `
-//     ${alert("Estaremos actualizando nuestra pagina continuamente, gracias por su atencion att: Brandon Alexis y Anderson Cano")}
-// `
 
-// window.onload = (() => {
-//     mensajeBienvenida
-// })
-
-// FUNCION DEL HEADER
+// FUNCIONES PARA PODER CARGAR LOS COMPONENTES DEL PROYECTO
 function loadComponent(containerId, modulePath) {
     fetch(modulePath)
         .then(response => response.text())
