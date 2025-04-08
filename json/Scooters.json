@@ -1,0 +1,180 @@
+{
+    "MOTOS": [
+      {
+        "modelo": "NMax 155",
+        "marca": "Yamaha",
+        "imagen": "https://www.incolmotos-yamaha.com.co/wp-content/uploads/2021/03/FRAY9752.jpg",
+        "descuento": 10,
+        "nombre": "NMax 155 2023",
+        "rating": 4.6,
+        "descripcion": "Scooter urbano de Yamaha con ABS y motor Blue Core de 155 cc",
+        "precio_viejo": 4000,
+        "precio_nuevo": 3600
+      },
+      {
+        "modelo": "PCX 160",
+        "marca": "Honda",
+        "imagen": "https://publimotos.com/wp-content/uploads/2023/09/honda-pcx-02.jpg",
+        "descuento": 8,
+        "nombre": "PCX 160 2023",
+        "rating": 4.5,
+        "descripcion": "Scooter premium de Honda con diseño elegante y tecnología eSP+",
+        "precio_viejo": 4200,
+        "precio_nuevo": 3864
+      },
+      {
+        "modelo": "Like 150i",
+        "marca": "Kymco",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8F5VF0ryarVA-zR2S1Kt6-5eJlCstVSc4qQ&s",
+        "descuento": 12,
+        "nombre": "Like 150i 2023",
+        "rating": 4.4,
+        "descripcion": "Scooter retro de Kymco con inyección electrónica y frenos ABS",
+        "precio_viejo": 3700,
+        "precio_nuevo": 3256
+      },
+      {
+        "modelo": "Primavera 150",
+        "marca": "Vespa",
+        "imagen": "https://motomall.com.co/wp-content/uploads/2023/08/WhatsApp-Image-2023-08-16-at-11.56.09-4.jpeg",
+        "descuento": 5,
+        "nombre": "Primavera 150 2023",
+        "rating": 4.7,
+        "descripcion": "El clásico scooter italiano de Vespa con estilo atemporal",
+        "precio_viejo": 5100,
+        "precio_nuevo": 4845
+      },
+      {
+        "modelo": "Burgman Street 125",
+        "marca": "Suzuki",
+        "imagen": "https://suzuki.com.co/sites/default/files/2023-07/BURGMAN-GRIS.png",
+        "descuento": 9,
+        "nombre": "Burgman Street 125 2023",
+        "rating": 4.3,
+        "descripcion": "Scooter tipo maxi con gran comodidad y almacenamiento",
+        "precio_viejo": 3300,
+        "precio_nuevo": 3003
+      },
+      {
+        "modelo": "Citycom S 300i",
+        "marca": "SYM",
+        "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_708741-MCO82621813237_022025-T.webp",
+        "descuento": 7,
+        "nombre": "Citycom S 300i 2023",
+        "rating": 4.5,
+        "descripcion": "Scooter potente ideal para trayectos urbanos e interurbanos",
+        "precio_viejo": 4900,
+        "precio_nuevo": 4557
+      },
+      {
+        "modelo": "Forza 350",
+        "marca": "Honda",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBezgbjbJKZGMjzhLVS2kt4_21w467p7ShiQ&s",
+        "descuento": 6,
+        "nombre": "Forza 350 2023",
+        "rating": 4.6,
+        "descripcion": "Scooter de gama alta con pantalla digital y parabrisas eléctrico",
+        "precio_viejo": 6200,
+        "precio_nuevo": 5828
+      },
+      {
+        "modelo": "XMAX 300",
+        "marca": "Yamaha",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQF1sxASVHrX-MsU99caI43KUXk2c9HSXXdQ&s",
+        "descuento": 5,
+        "nombre": "XMAX 300 2023",
+        "rating": 4.7,
+        "descripcion": "Scooter deportivo de Yamaha con conectividad y control de tracción",
+        "precio_viejo": 6400,
+        "precio_nuevo": 6080
+      },
+      {
+        "modelo": "Liberty 150",
+        "marca": "Piaggio",
+        "imagen": "https://publimotos.com/wp-content/uploads/2023/09/principal_piaggio_liberty.jpg",
+        "descuento": 6,
+        "nombre": "Liberty 150 2023",
+        "rating": 4.3,
+        "descripcion": "Scooter compacto y elegante de Piaggio ideal para ciudad",
+        "precio_viejo": 3800,
+        "precio_nuevo": 3572
+      },
+      {
+        "modelo": "Medley 125",
+        "marca": "Piaggio",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTylADIxZSKumHck-F8mCBUjyhokUYUFO-YIg&s",
+        "descuento": 5,
+        "nombre": "Medley 125 2023",
+        "rating": 4.4,
+        "descripcion": "Scooter de Piaggio con motor 125 cc, ideal para el tráfico urbano",
+        "precio_viejo": 4200,
+        "precio_nuevo": 3990
+      },
+      {
+        "modelo": "Tmax 560",
+        "marca": "Yamaha",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNrT3xrpVNZKNzJn7yOGIIZj9vZeWeGcFvw&s",
+        "descuento": 8,
+        "nombre": "Tmax 560 2023",
+        "rating": 4.8,
+        "descripcion": "Scooter de alta gama con motor de 560 cc y control electrónico de tracción",
+        "precio_viejo": 12000,
+        "precio_nuevo": 11040
+      },
+      {
+        "modelo": "Beverly 350",
+        "marca": "Piaggio",
+        "imagen": "https://www.motofichas.com/images/phocagallery/Piaggio_and_C_SpA/Beverly_350_Sport_Touring_2016/01-Beverly-350-Touring-3-4-delantero-derecho-blanco.jpg",
+        "descuento": 7,
+        "nombre": "Beverly 350 2023",
+        "rating": 4.6,
+        "descripcion": "Scooter Piaggio con ruedas grandes para una mayor estabilidad y confort",
+        "precio_viejo": 6600,
+        "precio_nuevo": 6138
+      },
+      {
+        "modelo": "Vespa GTS 300",
+        "marca": "Vespa",
+        "imagen": "https://vespa-colombia.com/wp-content/uploads/2024/04/vespa-gts300-hpe-verdementa-vespacolombia-loscoches-2-e1712645411350.png   ",
+        "descuento": 10,
+        "nombre": "Vespa GTS 300 2023",
+        "rating": 4.7,
+        "descripcion": "Scooter clásico de Vespa con motor 300 cc y estilo inconfundible",
+        "precio_viejo": 8000,
+        "precio_nuevo": 7200
+      },
+      {
+        "modelo": "S125",
+        "marca": "Suzuki",
+        "imagen": "https://imgd.aeplcdn.com/664x374/n/cw/ec/1/versions/suzuki-access-125-standard1738074352591.jpg?q=80",
+        "descuento": 5,
+        "nombre": "S125 2023",
+        "rating": 4.3,
+        "descripcion": "Scooter compacto y ligero de Suzuki para un desplazamiento ágil en la ciudad",
+        "precio_viejo": 3700,
+        "precio_nuevo": 3515
+      },
+      {
+        "modelo": "X-City 300",
+        "marca": "SYM",
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQunBZT2iOIY6OPDon4O90PrcgdmkfBoir9NA&s",
+        "descuento": 9,
+        "nombre": "X-City 300 2023",
+        "rating": 4.6,
+        "descripcion": "Scooter de ciudad con motor de 278 cc ideal para viajes largos",
+        "precio_viejo": 5500,
+        "precio_nuevo": 5000
+      },
+      {
+        "modelo": "Fly 150",
+        "marca": "Vespa",
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_971081-MCO51492857520_092022-O.webp",
+        "descuento": 6,
+        "nombre": "Fly 150 2023",
+        "rating": 4.4,
+        "descripcion": "Scooter ligera de Vespa para uso urbano, fácil de maniobrar",
+        "precio_viejo": 3900,
+        "precio_nuevo": 3666
+      }
+    ]
+}
