@@ -217,7 +217,7 @@ class Producto {
         .then((motos) => renderProductos(motos, "moto"))
         .catch((err) => console.log(err));
     } else if (ruta.includes("scooters.html")) {
-      cargarProductos("../json/Scooter.json", "motos")
+      cargarProductos("../json/Scooters.json", "motos")
         .then((motos) => renderProductos(motos, "moto"))
         .catch((err) => console.log(err));
     }
