@@ -1,0 +1,224 @@
+{
+    "MOTOS": [ 
+        {
+            "modelo": "Ninja ZX-10R",
+            "marca": "Kawasaki",
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_751009-MLU74698794706_022024-O.webp",
+            "descuento": 15,
+            "nombre": "Ninja ZX-10R 2023",
+            "rating": 4.5,
+            "descripcion": "La moto deportiva más avanzada de Kawasaki con 203 HP",
+            "precio_viejo": 25000,
+            "precio_nuevo": 21250
+        },
+        {
+            "modelo": "YZF-R1",
+            "marca": "Yamaha",
+            "imagen": "https://www.incolmotos-yamaha.com.co/wp-content/uploads/2020/02/R1-2022-COLOR_AZUL.jpg",
+            "descuento": 10,
+            "nombre": "YZF-R1 2023",
+            "rating": 4.7,
+            "descripcion": "La legendaria moto deportiva de Yamaha con tecnología MotoGP",
+            "precio_viejo": 23000,
+            "precio_nuevo": 20700
+        },
+        {
+            "modelo": "CBR1000RR-R",
+            "marca": "Honda",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRurpXfYbbgUqxcVDAUNhu0KH2NeXKEZ9leZQ&s",
+            "descuento": 12,
+            "nombre": "CBR1000RR-R Fireblade",
+            "rating": 4.6,
+            "descripcion": "La moto deportiva de alto rendimiento de Honda con 217 HP",
+            "precio_viejo": 26000,
+            "precio_nuevo": 22880
+        },
+        {
+            "modelo": "GSX-R1000R",
+            "marca": "Suzuki",
+            "imagen": "https://dhqlmcogwd1an.cloudfront.net/images/phocagallery/Suzuki/gsx-r1000-r-2019/02-suzuki-gsx-r1000-r-2019-estaticas-detalles.jpg",
+            "descuento": 8,
+            "nombre": "GSX-R1000R 2023",
+            "rating": 4.4,
+            "descripcion": "La moto deportiva insignia de Suzuki con tecnología avanzada",
+            "precio_viejo": 24000,
+            "precio_nuevo": 22080
+        },
+        {
+            "modelo": "Panigale V4",
+            "marca": "Ducati",
+            "imagen": "https://www.motofichas.com/images/cache/10-ducati-panigale-v4-2025-estudio-rojo-01-398-a-mobile.jpg",
+            "descuento": 5,
+            "nombre": "Panigale V4 2023",
+            "rating": 4.8,
+            "descripcion": "La moto deportiva de Ducati con diseño y potencia excepcionales",
+            "precio_viejo": 28000,
+            "precio_nuevo": 26600
+        },
+        {
+            "modelo": "S1000RR",
+            "marca": "BMW",
+            "imagen": "https://i.pinimg.com/736x/82/cf/94/82cf94afd29c097037fe68febe7b9fd4.jpg",
+            "descuento": 7,
+            "nombre": "S1000RR 2023",
+            "rating": 4.7,
+            "descripcion": "La moto deportiva de BMW con tecnología de punta y 205 HP",
+            "precio_viejo": 27000,
+            "precio_nuevo": 25110
+        },
+        {
+            "modelo": "RSV4",
+            "marca": "Aprilia",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcqj6xygIUX4WMAumdYKykE0uRMVHZTj7XGw&s",
+            "descuento": 6,
+            "nombre": "RSV4 Factory 2023",
+            "rating": 4.6,
+            "descripcion": "La moto deportiva de Aprilia con un motor V4 de alto rendimiento",
+            "precio_viejo": 26500,
+            "precio_nuevo": 24910
+        },
+        {
+            "modelo": "ZX-6R",
+            "marca": "Kawasaki",
+            "imagen": "https://www.motofichas.com/images/phocagallery/Kawasaki/ninja-zx-6r-2025/10-kawasaki-ninja-zx-6r-2025-estudio-verde-01.jpg",
+            "descuento": 10,
+            "nombre": "Ninja ZX-6R 2023",
+            "rating": 4.5,
+            "descripcion": "La moto deportiva de media cilindrada de Kawasaki",
+            "precio_viejo": 15000,
+            "precio_nuevo": 13500
+        },
+        {
+            "modelo": "R6",
+            "marca": "Yamaha",
+            "imagen": "https://global.yamaha-motor.com/showroom/event/tokyo-motorshow-2017/assets/img/exhibitionmodels/yzf-r6/mainvisual.jpg",
+            "descuento": 9,
+            "nombre": "YZF-R6 2023",
+            "rating": 4.6,
+            "descripcion": "La moto deportiva de Yamaha con un diseño aerodinámico",
+            "precio_viejo": 16000,
+            "precio_nuevo": 14560
+        },
+        {
+            "modelo": "Street Triple RS",
+            "marca": "Triumph",
+            "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk5H8_Cy53QjPeW7ttgE-CY7j9pAcHXYAXuQ&s",
+            "descuento": 8,
+            "nombre": "Street Triple RS 2023",
+            "rating": 4.5,
+            "descripcion": "La moto deportiva de Triumph con un motor tricilíndrico",
+            "precio_viejo": 14000,
+            "precio_nuevo": 12880
+        },
+        {
+            "modelo": "SuperSport 950",
+            "marca": "Ducati",
+            "imagen": "https://images.ctfassets.net/x7j9qwvpvr5s/7uzgkAg3n5VtKjEkb6iB6r/f07dcb8b7f4d2cab2816522cdad5cc04/SS-950-S-MY22-Model-Preview-1050x650-v06.png",
+            "descuento": 6,
+            "nombre": "SuperSport 950 2023",
+            "rating": 4.4,
+            "descripcion": "La moto deportiva versátil de Ducati para carretera y pista",
+            "precio_viejo": 18000,
+            "precio_nuevo": 16920
+        },
+        {
+            "modelo": "MT-10",
+            "marca": "Yamaha",
+            "imagen": "https://cdn-0.totalmotorcycle.com/wp-content/uploads/2022/11/2023-Yamaha-MT-10c.jpg",
+            "descuento": 7,
+            "nombre": "MT-10 2023",
+            "rating": 4.5,
+            "descripcion": "La moto deportiva naked de Yamaha con un motor de 998 cc",
+            "precio_viejo": 17000,
+            "precio_nuevo": 15810
+        },
+        {
+            "modelo": "CB650R",
+            "marca": "Honda",
+            "imagen": "https://as.sobrenet.pt/s/image/tsr/brandm/content/1920x1280/rkwsxjxjdmp4vgalkzyowrgfya2.jpg",
+            "descuento": 5,
+            "nombre": "CB650R 2023",
+            "rating": 4.3,
+            "descripcion": "La moto deportiva naked de Honda con un diseño moderno",
+            "precio_viejo": 12000,
+            "precio_nuevo": 11400
+        },
+        {
+            "modelo": "Z900",
+            "marca": "Kawasaki",
+            "imagen": "https://storage.kawasaki.eu/public/kawasaki.eu/en-EU/model/23MY_Z900_SL1_STU__1_.jpg",
+            "descuento": 6,
+            "nombre": "Z900 2023",
+            "rating": 4.4,
+            "descripcion": "La moto deportiva naked de Kawasaki con un motor de 948 cc",
+            "precio_viejo": 13000,
+            "precio_nuevo": 12220
+        },
+        {
+            "modelo": "Tuono V4",
+            "marca": "Aprilia",
+            "imagen": "https://www.totalmotorcycle.com/wp-content/uploads/2023/04/2023-Aprilia-Tuono-V4-Factory-1100c.jpg",
+            "descuento": 7,
+            "nombre": "Tuono V4 2023",
+            "rating": 4.6,
+            "descripcion": "La moto deportiva naked de Aprilia con un motor V4",
+            "precio_viejo": 19000,
+            "precio_nuevo": 17670
+        },
+        {
+            "modelo": "Monster",
+            "marca": "Ducati",
+            "imagen": "https://www.webbikeworld.com/wp-content/uploads/2023/06/2023-Ducati-Monster-4.jpg",
+            "descuento": 5,
+            "nombre": "Monster 2023",
+            "rating": 4.5,
+            "descripcion": "La icónica moto naked de Ducati con un diseño renovado",
+            "precio_viejo": 15000,
+            "precio_nuevo": 14250
+        },
+        {
+            "modelo": "Speed Triple 1200 RS",
+            "marca": "Triumph",
+            "imagen": "https://mileagewala.com/wp-content/uploads/2023/01/2023-Triumph-Street-Triple-RS-Carbon-Black-front-right.jpg",
+            "descuento": 8,
+            "nombre": "Speed Triple 1200 RS 2023",
+            "rating": 4.7,
+            "descripcion": "La moto deportiva naked de Triumph con un motor de 1160 cc",
+            "precio_viejo": 20000,
+            "precio_nuevo": 18400
+        },
+        {
+            "modelo": "KTM RC 390",
+            "marca": "KTM",
+            "imagen": "https://www.webbikeworld.com/wp-content/uploads/2023/06/2023-KTM-RC-390-2-918x588.png",
+            "descuento": 10,
+            "nombre": "KTM RC 390 2023",
+            "rating": 4.4,
+            "descripcion": "La moto deportiva ligera de KTM con un diseño agresivo",
+            "precio_viejo": 8000,
+            "precio_nuevo": 7200
+        },
+        {
+            "modelo": "Duke 890 R",
+            "marca": "KTM",
+            "imagen": "https://images5.1000ps.net/images_bikekat/2023/1-KTM/9833-890_Duke_R/002-638047874536720309-ktm-890-duke-r.jpg",
+            "descuento": 9,
+            "nombre": "Duke 890 R 2023",
+            "rating": 4.6,
+            "descripcion": "La moto deportiva naked de KTM con un motor bicilíndrico",
+            "precio_viejo": 11000,
+            "precio_nuevo": 10010
+        },
+        {
+            "modelo": "Hayabusa",
+            "marca": "Suzuki",
+            "imagen": "https://servicemanualsgsxr.com/wp-content/uploads/2022/09/2023-suzuki-hayabusa-specifications-3.jpg",
+            "descuento": 6,
+            "nombre": "Hayabusa 2023",
+            "rating": 4.8,
+            "descripcion": "La legendaria moto deportiva de Suzuki con un diseño aerodinámico",
+            "precio_viejo": 18000,
+            "precio_nuevo": 16920
+        }
+    ]
+}
