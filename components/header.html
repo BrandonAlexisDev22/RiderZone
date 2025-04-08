@@ -1,33 +1,51 @@
-<header>
-    <div class="header-top">
-        <div class="logo">
-            <a href="index.html">
-                <img src="images/moto-logo.png" alt="RiderZone Logo">
-            </a>
-        </div>
-        <div class="search-bar">
-            <form action="#" method="ge`t">
-                <input type="text" placeholder="Buscar motos, accesorios...">
-                <button type="submit">Buscar</button>
-            </form>
-        </div>
-        <div class="user-actions">
-            <a href="login.html" class="btn">Iniciar Sesión</a>
-            <a href="register.html" class="btn">Registrarse</a>
-            <a href="#" class="cart">
-                <span class="cart-icon">🛒</span>
-                <span class="cart-count">0</span>
-            </a>
-        </div>
+<header class="bg-light shadow-sm">
+  <!-- Header top -->
+  <div class="container py-3">
+    <div class="row align-items-center">
+      <!-- Logo -->
+      <div class="col-md-3 text-center text-md-start logo">
+        <a href="index.html">
+          <img src="images/moto-logo.png" alt="RiderZone Logo">
+        </a>
+      </div>
+
+      <!-- Search -->
+      <div class="col-md-6 mt-3 mt-md-0">
+        <form action="#" method="get" class="d-flex search-bar">
+          <input type="text" class="form-control me-2" placeholder="Buscar motos, accesorios...">
+          <button type="submit" class="btn btn-outline-secondary">Buscar</button>
+        </form>
+      </div>
+
+      <!-- User actions -->
+      <div class="col-md-3 mt-3 mt-md-0 d-flex justify-content-center justify-content-md-end user-actions gap-2">
+        <a href="login.html" class="btn btn-outline-primary btn-sm">Iniciar Sesión</a>
+        <a href="register.html" class="btn btn-outline-success btn-sm">Registrarse</a>
+        <a href="#" class="btn btn-light position-relative">
+          <span class="cart-icon">🛒</span>
+          <span class="cart-count">0</span>
+        </a>
+      </div>
     </div>
-    <nav class="main-nav">
-        <ul>
-            <li><a href="index.html">Inicio</a></li>
-            <li><a href="deportive.html">Deportivas</a></li>
-            <li><a href="scooters.html">Scooters</a></li>
-            <li><a href="#">Accesorios</a></li>
-            <li><a href="#">Ofertas</a></li>
-            <li><a href="#">Contacto</a></li>
+  </div>
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg main-nav">
+    <div class="container">
+      <a class="navbar-brand d-lg-none" href="index.html">Categorias</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNavbar">
+        <ul class="navbar-nav mx-auto mb-2 mb-lg-0">
+          <li class="nav-item"><a class="nav-link" href="index.html">Inicio</a></li>
+          <li class="nav-item"><a class="nav-link" href="deportive.html">Deportivas</a></li>
+          <li class="nav-item"><a class="nav-link" href="scooters.html">Scooters</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Accesorios</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Ofertas</a></li>
+          <li class="nav-item"><a class="nav-link" href="#">Contacto</a></li>
         </ul>
-    </nav>
+      </div>
+    </div>
+  </nav>
 </header>
