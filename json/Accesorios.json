@@ -1,0 +1,154 @@
+{
+    "ACCESORIOS": [
+        {
+            "nombre": "Casco Shoei RF-1400",
+            "marca": "Shoei",
+            "imagen": "https://m.media-amazon.com/images/I/71Z5Lp09slL._AC_SL1500_.jpg",
+            "descuento": 15,
+            "descripcion": "Casco integral de alto rendimiento con excelente ventilación y aerodinámica.",
+            "rating": 4.8,
+            "precio_viejo": 600,
+            "precio_nuevo": 510
+        },
+        {
+            "nombre": "Guantes Alpinestars SP-8 V3",
+            "marca": "Alpinestars",
+            "imagen": "https://m.media-amazon.com/images/I/61KR6RrUo1L._AC_SL1500_.jpg",
+            "descuento": 10,
+            "descripcion": "Guantes de cuero con protección avanzada y comodidad superior.",
+            "rating": 4.7,
+            "precio_viejo": 120,
+            "precio_nuevo": 108
+        },
+        {
+            "nombre": "Chaqueta Dainese Racing 4",
+            "marca": "Dainese",
+            "imagen": "https://m.media-amazon.com/images/I/51z4K0e0GzL._AC_SL1000_.jpg",
+            "descuento": 12,
+            "descripcion": "Chaqueta de cuero deportiva con protecciones certificadas y estilo agresivo.",
+            "rating": 4.6,
+            "precio_viejo": 450,
+            "precio_nuevo": 396
+        },
+        {
+            "nombre": "Rodilleras Leatt Dual Axis",
+            "marca": "Leatt",
+            "imagen": "https://m.media-amazon.com/images/I/71uY0yZ1jhL._AC_SL1500_.jpg",
+            "descuento": 8,
+            "descripcion": "Rodilleras articuladas de alta protección para uso en pista o enduro.",
+            "rating": 4.5,
+            "precio_viejo": 130,
+            "precio_nuevo": 119.6
+        },
+        {
+            "nombre": "Botas TCX RT-Race",
+            "marca": "TCX",
+            "imagen": "https://m.media-amazon.com/images/I/61A4yxsyH8L._AC_SL1500_.jpg",
+            "descuento": 10,
+            "descripcion": "Botas racing de alto rendimiento con protecciones completas.",
+            "rating": 4.7,
+            "precio_viejo": 300,
+            "precio_nuevo": 270
+        },
+        {
+            "nombre": "Intercomunicador Sena 50S",
+            "marca": "Sena",
+            "imagen": "https://m.media-amazon.com/images/I/81K7TTa7a2L._AC_SL1500_.jpg",
+            "descuento": 7,
+            "descripcion": "Sistema de comunicación Bluetooth para casco con Mesh 2.0.",
+            "rating": 4.6,
+            "precio_viejo": 350,
+            "precio_nuevo": 325.5
+        },
+        {
+            "nombre": "Maleta Givi V47",
+            "marca": "Givi",
+            "imagen": "https://m.media-amazon.com/images/I/61FiMHc5eBL._AC_SL1000_.jpg",
+            "descuento": 5,
+            "descripcion": "Maleta trasera de 47 litros con capacidad para dos cascos integrales.",
+            "rating": 4.5,
+            "precio_viejo": 280,
+            "precio_nuevo": 266
+        },
+        {
+            "nombre": "Soporte de celular Quad Lock Moto",
+            "marca": "Quad Lock",
+            "imagen": "https://m.media-amazon.com/images/I/71NeFDbHb5L._AC_SL1500_.jpg",
+            "descuento": 6,
+            "descripcion": "Soporte resistente para smartphone con sistema de anclaje seguro.",
+            "rating": 4.8,
+            "precio_viejo": 80,
+            "precio_nuevo": 75.2
+        },
+        {
+            "nombre": "Escape Akrapovic Slip-On",
+            "marca": "Akrapovic",
+            "imagen": "https://m.media-amazon.com/images/I/61h7Ez1J7mL._AC_SL1500_.jpg",
+            "descuento": 10,
+            "descripcion": "Sistema de escape deportivo para mejorar el rendimiento y el sonido.",
+            "rating": 4.9,
+            "precio_viejo": 900,
+            "precio_nuevo": 810
+        },
+        {
+            "nombre": "Protector de tanque Puig",
+            "marca": "Puig",
+            "imagen": "https://m.media-amazon.com/images/I/61yXLJyD5UL._AC_SL1000_.jpg",
+            "descuento": 5,
+            "descripcion": "Protector de tanque adhesivo para evitar rayaduras y mejorar el grip.",
+            "rating": 4.4,
+            "precio_viejo": 30,
+            "precio_nuevo": 28.5
+        },
+        {
+            "nombre": "Chaleco airbag Helite Turtle 2",
+            "marca": "Helite",
+            "imagen": "https://m.media-amazon.com/images/I/61lrbfTxG1L._AC_SL1000_.jpg",
+            "descuento": 10,
+            "descripcion": "Chaleco con sistema de airbag mecánico para máxima seguridad.",
+            "rating": 4.9,
+            "precio_viejo": 700,
+            "precio_nuevo": 630
+        },
+        {
+            "nombre": "Cubrepuños Oxford Stormex",
+            "marca": "Oxford",
+            "imagen": "https://m.media-amazon.com/images/I/61lj3SG8JFL._AC_SL1000_.jpg",
+            "descuento": 7,
+            "descripcion": "Cubrepuños resistentes al agua y al viento para mayor comodidad.",
+            "rating": 4.3,
+            "precio_viejo": 45,
+            "precio_nuevo": 41.85
+        },
+        {
+            "nombre": "Bolsa sobredepósito Givi XS307",
+            "marca": "Givi",
+            "imagen": "https://m.media-amazon.com/images/I/71znbJz-NYL._AC_SL1500_.jpg",
+            "descuento": 6,
+            "descripcion": "Bolsa magnética sobredepósito con capacidad de 15 litros.",
+            "rating": 4.4,
+            "precio_viejo": 120,
+            "precio_nuevo": 112.8
+        },
+        {
+            "nombre": "Lubricante de cadena Motul C4",
+            "marca": "Motul",
+            "imagen": "https://m.media-amazon.com/images/I/71JcTbSE2lL._AC_SL1500_.jpg",
+            "descuento": 5,
+            "descripcion": "Lubricante en spray para cadenas de motos deportivas y de calle.",
+            "rating": 4.6,
+            "precio_viejo": 20,
+            "precio_nuevo": 19
+        },
+        {
+            "nombre": "Cargador USB para moto Keenso",
+            "marca": "Keenso",
+            "imagen": "https://m.media-amazon.com/images/I/61xdBW1yMnL._AC_SL1001_.jpg",
+            "descuento": 9,
+            "descripcion": "Cargador USB doble resistente al agua con voltímetro incorporado.",
+            "rating": 4.5,
+            "precio_viejo": 25,
+            "precio_nuevo": 22.75
+        }
+    ]
+}
