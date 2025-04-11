@@ -1,196 +1,131 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="images/moto-logo.png" type="image/x-icon">
-    <title>RiderZone AB - Tu tienda de motos</title>
-    <link rel="stylesheet" href="css/styles.css">
-    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">    
-    <script src="./js/main.js" defer></script>
-    <script src="./js/script.js" defer></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="images/moto-logo.png" type="image/x-icon" />
+  <title>RiderZone AB - Tu tienda de motos</title>
+  <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="./js/main.js" defer></script>
+  <script src="./js/script.js" defer></script>
 </head>
 <body>
-    <div class="header-container"></div>
-    <main>
-        <section class="hero-banner">
-            <div class="hero-content">
-                <h1>Las mejores marcas del mundo</h1>
-                <p>Descubre nuestra colección de motos deportivas al mejor precio</p>
-                <a href="#" class="btn-primary">Ver Catálogo</a>
+  <header class="bg-dark text-white py-3 text-center">
+    <h1 class="mb-0">RiderZone AB</h1>
+    <p class="lead">Tu tienda de motos</p>
+  </header>
+
+  <main class="container my-5">
+    <!-- Hero Section -->
+    <section class="bg-primary text-white text-center p-5 rounded mb-5">
+      <h1 class="display-4">Las mejores marcas del mundo</h1>
+      <p class="lead">Descubre nuestra colección de motos deportivas al mejor precio</p>
+      <a href="#" class="btn btn-light btn-lg">Ver Catálogo</a>
+    </section>
+
+    <!-- Categorías destacadas -->
+    <section class="mb-5">
+      <h2 class="text-center mb-4">Categorías destacadas</h2>
+      <div class="row g-4">
+        <div class="col-md-4">
+          <div class="card h-100 text-center">
+            <img src="images/suzuki-gsx-r1000.jpg" class="card-img-top" alt="Motos Deportivas" />
+            <div class="card-body">
+              <h3 class="card-title">Deportivas</h3>
+              <a href="#" class="btn btn-outline-primary">Ver más</a>
             </div>
-        </section>
-
-        <section class="featured-categories">
-            <h2 class="section-title">Categorías destacadas</h2>
-            <div class="category-container">
-                <div class="category-card">
-                    <img src="images/suzuki-gsx-r1000.jpg" alt="Motos Deportivas">
-                    <h3>Deportivas</h3>
-                    <a href="#" class="btn">Ver más</a>
-                </div>
-                <div class="category-card">
-                    <img src="images/honda-cbr.jpg" alt="Motos Custom">
-                    <h3>Custom</h3>
-                    <a href="#" class="btn">Ver más</a>
-                </div>
-                <div class="category-card">
-                    <img src="images/yamaha-r1.jpg" alt="Motos Scooter">
-                    <h3>Scooters</h3>
-                    <a href="#" class="btn">Ver más</a>
-                </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card h-100 text-center">
+            <img src="images/honda-cbr.jpg" class="card-img-top" alt="Motos Custom" />
+            <div class="card-body">
+              <h3 class="card-title">Custom</h3>
+              <a href="#" class="btn btn-outline-primary">Ver más</a>
             </div>
-        </section>
-
-        <section class="featured-products">
-            <h2 class="section-title">Productos destacados</h2>
-            <div class="product-container">
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="images/suzuki-gsx-r600.jpg" alt="Suzuki GSX-R600">
-                        <span class="discount-badge">-15%</span>
-                    </div>
-                    <div class="product-info">
-                        <h3>Suzuki GSX-R600</h3>
-                        <div class="product-rating">
-                            <span>★★★★☆</span>
-                            <span class="rating-count">(24)</span>
-                        </div>
-                        <p class="product-description">La Suzuki GSX-R600 es una motocicleta deportiva con un potente motor de 600cc.</p>
-                        <div class="product-price">
-                            <span class="price-old">$12,500</span>
-                            <span class="price-current">$10,625</span>
-                        </div>
-                        <button class="btn-add-cart">Añadir al carrito</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="images/honda-cbr.jpg" alt="Honda CBR">
-                        <span class="discount-badge">-10%</span>
-                    </div>
-                    <div class="product-info">
-                        <h3>Honda CBR1000RR</h3>
-                        <div class="product-rating">
-                            <span>★★★★★</span>
-                            <span class="rating-count">(36)</span>
-                        </div>
-                        <p class="product-description">La Honda CBR1000RR es una motocicleta deportiva con un potente motor de 1000cc.</p>
-                        <div class="product-price">
-                            <span class="price-old">$15,900</span>
-                            <span class="price-current">$14,310</span>
-                        </div>
-                        <button class="btn-add-cart">Añadir al carrito</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="images/yamaha-r1.jpg" alt="Yamaha R1">
-                    </div>
-                    <div class="product-info">
-                        <h3>Yamaha YZF-R1</h3>
-                        <div class="product-rating">
-                            <span>★★★★★</span>
-                            <span class="rating-count">(42)</span>
-                        </div>
-                        <p class="product-description">La Yamaha YZF-R1 es una motocicleta deportiva con un potente motor de 1000cc.</p>
-                        <div class="product-price">
-                            <span class="price-current">$16,199</span>
-                        </div>
-                        <button class="btn-add-cart">Añadir al carrito</button>
-                    </div>
-                </div>
-
-                <div class="product-card">
-                    <div class="product-image">
-                        <img src="images/multiple-bikes.jpg" alt="Suzuki GSXR">
-                        <span class="new-badge">Nuevo</span>
-                    </div>
-                    <div class="product-info">
-                        <h3>Suzuki GSXR 1000</h3>
-                        <div class="product-rating">
-                            <span>★★★★☆</span>
-                            <span class="rating-count">(18)</span>
-                        </div>
-                        <p class="product-description">La Suzuki GSXR 1000 es una motocicleta deportiva con un potente motor de 1000cc.</p>
-                        <div class="product-price">
-                            <span class="price-current">$13,499</span>
-                        </div>
-                        <button class="btn-add-cart">Añadir al carrito</button>
-                    </div>
-                </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card h-100 text-center">
+            <img src="images/yamaha-r1.jpg" class="card-img-top" alt="Motos Scooter" />
+            <div class="card-body">
+              <h3 class="card-title">Scooters</h3>
+              <a href="#" class="btn btn-outline-primary">Ver más</a>
             </div>
-        </section>
+          </div>
+        </div>
+      </div>
+    </section>
 
-        <section class="promo-banner">
-            <div class="promo-content">
-                <h2>¡Ofertas de primavera!</h2>
-                <p>Hasta 30% de descuento en modelos seleccionados</p>
-                <a href="#" class="btn-primary">Ver ofertas</a>
+    <!-- Productos destacados -->
+    <section class="mb-5">
+      <h2 class="text-center mb-4">Productos destacados</h2>
+      <div class="row g-4">
+        <!-- Producto individual -->
+        <div class="col-md-6 col-lg-3">
+          <div class="card h-100">
+            <div class="position-relative">
+              <img src="images/suzuki-gsx-r600.jpg" class="card-img-top" alt="Suzuki GSX-R600" />
+              <span class="badge bg-danger position-absolute top-0 end-0 m-2">-15%</span>
             </div>
-        </section>
+            <div class="card-body">
+              <h5 class="card-title">Suzuki GSX-R600</h5>
+              <p class="card-text">La Suzuki GSX-R600 es una motocicleta deportiva con un potente motor de 600cc.</p>
+              <div class="mb-2">★★★★☆ <small>(24)</small></div>
+              <p><del>$12,500</del> <strong>$10,625</strong></p>
+              <button class="btn btn-success w-100">Añadir al carrito</button>
+            </div>
+          </div>
+        </div>
 
-        <section class="about-us">
-            <div class="about-content">
-                <h2 class="section-title">Sobre nosotros</h2>
-                <p>Somos una tienda especializada en la venta de motocicletas de alta gama. Contamos con más de 10 años de experiencia en el sector y ofrecemos los mejores precios del mercado.</p>
-                <p>Nuestro equipo de expertos está a tu disposición para ayudarte a encontrar la moto de tus sueños.</p>
-                <a href="#" class="btn">Conoce más</a>
-            </div>
-            <div class="about-image">
-                <img src="images/multiple-bikes.jpg" alt="Nuestra tienda">
-            </div>
-        </section>
+        <!-- Puedes repetir este bloque para los demás productos... -->
+        <!-- Reemplaza cada .product-card por un .col con .card dentro -->
 
-        <section class="testimonials">
-            <h2 class="section-title">Lo que dicen nuestros clientes</h2>
-            <div class="testimonial-container">
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★★</div>
-                    <p class="testimonial-text">"Excelente servicio y atención al cliente. Mi nueva Suzuki GSX-R600 es increíble. Totalmente recomendado."</p>
-                    <div class="testimonial-author">- Anderson Cano</div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★★</div>
-                    <p class="testimonial-text">"Precios inmejorables y una gran variedad de modelos para elegir. Mi Honda CBR1000RR llegó en perfectas condiciones."</p>
-                    <div class="testimonial-author">- Brandon Alexis </div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★☆</div>
-                    <p class="testimonial-text">"Gran experiencia de compra. El proceso fue muy sencillo y el envío rápido. Mi Yamaha YZF-R1 es espectacular."</p>
-                    <div class="testimonial-author">- Mateo Bejarano</div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★☆</div>
-                    <p class="testimonial-text">"El equipo de RiderZone fue muy amable y profesional. Estoy encantado con mi nueva moto."</p>
-                    <div class="testimonial-author">- Steven Tobon</div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★☆</div>
-                    <p class="testimonial-text">"El servicio fue excelente y la calidad de la moto superó mis expectativas. Muy recomendado."</p>
-                    <div class="testimonial-author">- Alvaro Niño</div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★☆</div>
-                    <p class="testimonial-text">"El proceso de compra fue rápido y sencillo. Estoy muy satisfecho con mi Yamaha YZF-R1."</p>
-                    <div class="testimonial-author">- Newton Pomare</div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★★</div>
-                    <p class="testimonial-text">"La atención al cliente fue excepcional. Mi nueva Ducati Panigale es un sueño hecho realidad."</p>
-                    <div class="testimonial-author">- Camila Rodríguez</div>
-                </div>
-                <div class="testimonial-card">
-                    <div class="testimonial-rating">★★★★☆</div>
-                    <p class="testimonial-text">"Gran variedad de modelos y precios competitivos. Estoy encantado con mi Kawasaki Ninja ZX-10R."</p>
-                    <div class="testimonial-author">- Javier Martínez</div>
-                </div>
-            </div>
-        </section>
-    </main>
-    <div class="footer-content"></div>
-    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- ...más productos aquí -->
+      </div>
+    </section>
+
+    <!-- Banner promocional -->
+    <section class="bg-warning text-dark text-center p-5 rounded mb-5">
+      <h2>¡Ofertas de primavera!</h2>
+      <p class="lead">Hasta 30% de descuento en modelos seleccionados</p>
+      <a href="#" class="btn btn-dark">Ver ofertas</a>
+    </section>
+
+    <!-- Sobre nosotros -->
+    <section class="row align-items-center mb-5">
+      <div class="col-md-6">
+        <h2>Sobre nosotros</h2>
+        <p>Somos una tienda especializada en la venta de motocicletas de alta gama con más de 10 años de experiencia.</p>
+        <p>Nuestro equipo de expertos está a tu disposición para ayudarte a encontrar la moto de tus sueños.</p>
+        <a href="#" class="btn btn-outline-primary">Conoce más</a>
+      </div>
+      <div class="col-md-6">
+        <img src="images/multiple-bikes.jpg" class="img-fluid rounded" alt="Nuestra tienda" />
+      </div>
+    </section>
+
+    <!-- Testimonios -->
+    <section class="mb-5">
+      <h2 class="text-center mb-4">Lo que dicen nuestros clientes</h2>
+      <div class="row g-4">
+        <div class="col-md-4">
+          <div class="card h-100 p-3">
+            <div class="text-warning fs-4">★★★★★</div>
+            <p>"Excelente servicio y atención al cliente. Mi nueva Suzuki GSX-R600 es increíble."</p>
+            <p class="fw-bold mb-0">- Anderson Cano</p>
+          </div>
+        </div>
+        <!-- Agrega más testimonios en columnas similares -->
+      </div>
+    </section>
+  </main>
+
+  <footer class="bg-dark text-white text-center py-4">
+    <p class="mb-0">&copy; 2025 RiderZone AB. Todos los derechos reservados.</p>
+  </footer>
+
+  <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
