@@ -211,7 +211,6 @@ class Producto {
    */
   function cargarSeccion() {
     const ruta = window.location.pathname;
-  
     if (ruta.includes("deportive.html")) {
       cargarProductos("../json/Deportivas.json", "motos")
         .then((motos) => renderProductos(motos, "moto"))
@@ -225,8 +224,7 @@ class Producto {
           .then((accesorios) => renderProductos(accesorios, "accesorio"))
           .catch((err) => console.log(err));
       }
-    }
   
   // Ejecutar carga según sección actual
   cargarSeccion();
-  
+}
