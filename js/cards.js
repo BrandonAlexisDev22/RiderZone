@@ -220,8 +220,12 @@ class Producto {
       cargarProductos("../json/Scooters.json", "motos")
         .then((motos) => renderProductos(motos, "moto"))
         .catch((err) => console.log(err));
+      } else if (ruta.includes("Accesorios.html")) {
+        cargarProductos("../json/Accesorios.json", "accesorios")
+          .then((accesorios) => renderProductos(accesorios, "accesorio"))
+          .catch((err) => console.log(err));
+      }
     }
-  }
   
   // Ejecutar carga según sección actual
   cargarSeccion();
