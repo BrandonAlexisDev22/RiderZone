@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/deportive.css">
+    <link rel="shortcut icon" href="images/moto-logo.png" type="image/x-icon">
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">
+    <script src="node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="./js/main.js" defer></script>
+    <script src="./js/script.js" defer></script>
+    <title>Contacto - RiderZone</title>
+</head>
+
+<body>
+    <div class="header-container"></div>
+    <div class="root">
+        <!-- Sección de Contacto -->
+        <section class="contact-section" id="contacto">
+            <div class="container mt-5">
+                <h2 class="section-title">Contáctanos</h2>
+                <div class="row mt-4">
+                    <!-- Formulario de contacto -->
+                    <div class="col-md-6 mb-4">
+                        <form>
+                            <div class="mb-3">
+                                <label for="nombre" class="form-label">Nombre completo</label>
+                                <input type="text" class="form-control" id="nombre" placeholder="NOMBRE" required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="correo" class="form-label">Correo electrónico</label>
+                                <input type="email" class="form-control" id="correo" placeholder="CORREO ELECTRONICO"
+                                    required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="telefono" class="form-label">Teléfono</label>
+                                <input type="tel" class="form-control" id="telefono" placeholder="Ej: 3001234567"
+                                    required>
+                            </div>
+                            <div class="mb-3">
+                                <label for="mensaje" class="form-label">Mensaje</label>
+                                <textarea class="form-control" id="mensaje" rows="4"
+                                    placeholder="Escribe tu mensaje aquí..." required></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary">Enviar mensaje</button>
+                        </form>
+                    </div>
+
+                    <!-- Mapa de Google -->
+                    <div class="col-md-6">
+                        <div class="ratio ratio-4x3">
+                            <iframe
+                                src="https://www.google.com/maps?q=Popular+1,+Medell%C3%ADn,+Antioquia,+Colombia&output=embed"
+                                allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                                class="rounded shadow"></iframe>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <div class="footer-content"></div>
+    <script src="./js/cards.js"></script>
+
+</body>
+</html>
