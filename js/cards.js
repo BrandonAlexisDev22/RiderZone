@@ -223,8 +223,12 @@ class Producto {
         cargarProductos("../json/Accesorios.json", "accesorios")
           .then((accesorios) => renderProductos(accesorios, "accesorio"))
           .catch((err) => console.log(err));
-      }
+      } else if (ruta.includes("ofertas.html")) {
+        cargarProductos("../json/Ofertas.json", "ofertas")
+          .then((ofertas) => renderProductos(ofertas, "oferta"))
+          .catch((err) => console.log(err));
+    }
   
   // Ejecutar carga según sección actual
-  cargarSeccion();
 }
+cargarSeccion();
